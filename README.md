@@ -1,4 +1,4 @@
-# Arduino-Projects-ESP32-Sensors-Documentation-E-Books-
+# Arduino-Projects-ESP32-Sensors-Documentation-E-Books
 
 https://randomnerdtutorials.com/
 
